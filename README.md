@@ -1,2 +1,2 @@
-# LoganCyp.github.io
-Logan Cypser's Website
+# Hey, welcome
+My websites under development rn!
