@@ -8,6 +8,6 @@
 # Hume Center
 - company: Hume Center for National Security and Technology at Virginia Tech
   position: Research Assistant
-  duration:  Jun, 2010 &mdash; Sept, 2013
+  duration:  May, 2023 &mdash; Present
   summary: <ul class="resume-item-list"><li>Developed a convolutional neural network that takes Range-Doppler maps from a FMCW Radar and predicts the object.</li><li>Developed a 1090 MHz ADS-B decoder in Python with RTL-SDR compatibility.</li><li>Developed a machine learning based data analytics pipeline in Python for student engagement data from VT Waves.</li></ul>
 
