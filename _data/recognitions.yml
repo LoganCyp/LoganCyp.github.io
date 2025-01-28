@@ -1,10 +1,10 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: VPRSF Honorable Mention
+  organization: Virginia Piedmont Regional Science Fair
+  year: 2021
+  summary: Awarded an honorable mention for implementing a Neural Circuit Policy CNN architecture in the Udacity Self Driving Car simulator, as well as creating a efficient second-order approximate Polyak Step Size optimization algorithm.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Science and Technology Award for Innovation
+  organization: Virginia Piedmont Regional Science Fair
+  year: 2019
+  summary: Awarded for my project that utilized Bayesian Statistics and a Convolutional Neural Network to factor in publicly available patient data from DICOM files to detect and classify lung carcinoma.

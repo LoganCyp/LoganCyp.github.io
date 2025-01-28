@@ -1,16 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: UAV RF Fingerprinting and Modulation Classification
+  role: Team Lead, Developer
+  duration: 2023 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Created a project that uses radio-frequency data derived from various UAVs with labels for signal fingerprint and modulation type. The data is engineered to analyze I/Q, Amp-Phase, Constellation Plots, and Power Spectral Density plots to develop a predictive convolutional neural network that can accurately classify the signal sender and modulation type. The project generates external data using variational autoencoders and fast gradient sign method to ensure a robust model is created.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Boeing Transformation Challenge; Cultural Nuance Translation
+  role: Team Member
+  duration: 2024 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Developed and pitched an idea at the Boeing Transformation Challenge at Virginia Tech to translate cultural nuances between Boeing workforce platforms. Currently developing the model to fine tune a generative artificial intelligence model with cultural nuance data.
